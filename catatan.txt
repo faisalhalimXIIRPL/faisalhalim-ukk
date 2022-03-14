@@ -1,0 +1,6 @@
+
+12345|faisal|2022-03-20|08:52|jogja|13|tess
+12345|faisal|2022-03-29|11:10|jogja|13|catatan
+12345|faisal|2022-03-05|12:11|jogja|13|adadad
+12345|faisal|2022-03-05|12:11|jogja|13|adadad
+12345|faisal|2022-03-08|11:14|jogja|13|sss

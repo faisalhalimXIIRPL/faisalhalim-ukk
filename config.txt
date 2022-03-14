@@ -1,0 +1,3 @@
+NIK|NAMA LENGKAP
+12345|faisal
+2022|Bayu
